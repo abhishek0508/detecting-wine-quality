@@ -1,3 +1,4 @@
+fixed acidity,volatile acidity,citric acid,residual sugar,chlorides,free sulfur dioxide,total sulfur dioxide,density,pH,sulphates,alcohol,quality
 7,0.27,0.36,20.7,0.045,45,170,1.001,3,0.45,8.8,6
 8.4,0.4,0.7,13.1,0.042,29.0,197.0,0.998,3.06,0.64,9.7,5
 7.8,0.17,0.23,1.7,0.028999999999999998,39.0,128.0,0.99272,3.37,0.41,10.7,7
